@@ -3934,6 +3934,17 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-keyboard-input@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-keyboard-input/-/react-native-keyboard-input-5.2.0.tgz#56e2a290b1b15b765ef023e21c76ffd553d89426"
+  dependencies:
+    lodash "^4.17.4"
+    react-native-keyboard-tracking-view "^5.4.0"
+
+react-native-keyboard-tracking-view@^5.4.0:
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/react-native-keyboard-tracking-view/-/react-native-keyboard-tracking-view-5.4.2.tgz#56f0053ff4ef5b0a6799b96c5d93701df5048d8a"
+
 react-native@0.51.0:
   version "0.51.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.51.0.tgz#fe25934b3030fd323f3ca1a70f034133465955ed"
